@@ -1,0 +1,33 @@
+poem = """
+Were Hank Hill to have seen you now,
+“That boy’s alright” he would now vow.
+We’d share a lawn for our dual gain,
+My love burns like a propane flame,
+
+We would take care of many pets:
+Yeah, Centipedes are a true bet.
+Our leggy friends will bright the day.
+They’ll watch us when we hit the hay.
+
+I’ll watch you and your integrals,
+I’ll draw small hearts on decimals.
+All day I’ll think about your name
+Our love burns like a propane flame.
+
+Our Rooster Booster boosts our bonds,
+Our coffee beans could fill a pond.
+Your frizzy hair does rizz my soul
+At dinnertime we’ll share a bowl.
+
+Frivolities and manatees;
+We’ll eat some cheese; feel seaside breeze.
+Topekan Methamphetamine
+Will have us feel so truly lean.
+
+We’ll join our lives and see the world,
+And find the joys that fate has squirreled.
+Throughout it all I’ll say the same:
+Our love still burns like propane flame.
+"""
+
+print(poem)
