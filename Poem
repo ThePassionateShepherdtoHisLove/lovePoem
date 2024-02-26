@@ -1,4 +1,12 @@
-poem = """
+class PoemPrinter:
+    def __init__(self, poem):
+        self.poem = poem
+    
+    def print_poem(self):
+        print(self.poem)
+
+# Define the poem
+poem_text = """
 Were Hank Hill to have seen you now,
 “That boy’s alright” he would now vow.
 We’d share a lawn for our dual gain,
@@ -29,5 +37,3 @@ And find the joys that fate has squirreled.
 Throughout it all I’ll say the same:
 Our love still burns like propane flame.
 """
-
-print(poem)
