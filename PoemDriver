@@ -1,0 +1,2 @@
+poem_printer = PoemPrinter(poem_text)
+poem_printer.print_poem()
